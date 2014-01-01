@@ -4,7 +4,7 @@
   <title><![CDATA[Amjad Ali]]></title>
   <link href="http://amjd.github.io/atom.xml" rel="self"/>
   <link href="http://amjd.github.io/"/>
-  <updated>2013-12-26T22:29:11+05:30</updated>
+  <updated>2014-01-01T22:33:01+05:30</updated>
   <id>http://amjd.github.io/</id>
   <author>
     <name><![CDATA[Amjad Ali]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Happy New Year]]></title>
+    <link href="http://amjd.github.io/blog/2014/01/01/happy-new-year/"/>
+    <updated>2014-01-01T21:21:11+05:30</updated>
+    <id>http://amjd.github.io/blog/2014/01/01/happy-new-year</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Hello World]]></title>
