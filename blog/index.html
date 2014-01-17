@@ -9,7 +9,7 @@
   <meta name="author" content="Amjad Ali">
 
   
-  <meta name="description" content="User Verification by Missed Calls Jan 12th, 2014 Happy New Year Jan 1st, 2014 Just wishing everyone a Happy New Year. There are exciting things &hellip;">
+  <meta name="description" content="User Verification by Missed Calls Jan 12th, 2014 If you have ever worked on a web or mobile app, odds are you must have come across a scenario where &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -139,7 +139,13 @@
   </header>
 
 
-  
+  <p>If you have ever worked on a web or mobile app, odds are you must have come across a scenario where you had to verify users&#8217; phone numbers by a text message or call. It could be for phone number verification or maybe for two-factor verification. Regardless of the use case, it would typically require you to use a service like <a href="http://www.twilio.com">Twilio</a> or <a href="http://www.nexmo.com">Nexmo</a>. This may not look like much as they offer simple, RESTful APIs, but it still takes some work getting it to work with your app.</p>
+
+<p>Enter mOTP.</p>
+
+<p><a href="http://motp.in">mOTP.in</a> is a free service which takes a fresh persective at this phone verification space. Instead of text messages or voice calls, mOTP uses the concept of missed calls to verify the user. I don&rsquo;t know how much missed calls have caught on in other countries but they have various uses in India, which is where mOTP hails from. Anyway, what mOTP does is, it calls the user from a number like +NNNNNNNN where the numbers following the + sign represent the verification code. The call is disconnected with a second or less, just long enough to leave the evidence of a missed call. The advantage with this approach is it&rsquo;s free for the company as well as for the users.</p>
+
+<p>I don&rsquo;t know reliable it is, but it worked when I tried it. Give it a shot and let me know what you think in the comments.</p>
 
   
   
